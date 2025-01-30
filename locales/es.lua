@@ -1,4 +1,4 @@
-Locales ['es'] = {
+return {
   ['valid_purchase'] = '¿Validar la compra?',
   ['yes'] = 'Si (<span style="color: green;">%s$</span>)',
   ['no'] = 'No',

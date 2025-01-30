@@ -1,4 +1,4 @@
-Locales ['tr'] = {
+return {
     ['valid_purchase'] = 'Değişiklikleri onaylıyor musun?',
     ['yes'] = 'Evet (<span style="color: green;">$%s</span>)',
     ['no'] = 'Hayır',

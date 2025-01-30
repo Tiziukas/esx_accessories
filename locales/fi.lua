@@ -1,4 +1,4 @@
-Locales ['fi'] = {
+return {
   ['valid_purchase'] = 'varmista ostos?',
   ['yes'] = 'kyllä (<span style="color: green;">$%s</span>)',
   ['no'] = 'ei',

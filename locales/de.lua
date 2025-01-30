@@ -1,4 +1,4 @@
-Locales ['de'] = {
+return {
   ['valid_purchase'] = 'Kauf bestätigen?',
   ['yes'] = 'Ja (<span style="color: green;">%s€</span>)',
   ['no'] = 'Nein',
